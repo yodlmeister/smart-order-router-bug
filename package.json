@@ -1,0 +1,17 @@
+{
+  "name": "swap-route-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethersproject/providers": "^5.7.2",
+    "@uniswap/sdk-core": "^5.3.1",
+    "@uniswap/smart-order-router": "^3.36.1",
+    "viem": "^2.18.4"
+  }
+}
